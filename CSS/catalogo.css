@@ -1,0 +1,28 @@
+body{
+    background-color: azure;
+}
+#tt{
+    display: inline;
+    margin-right: 20px;
+    font-size: 25px;
+}
+#nav li{
+    padding: 0%;
+    text-align: center;
+    display: inline;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.nav1 li{
+    display: inline;
+    margin-right: 20px;
+    font-size: 25px;
+}
+
+.nav1 h3{
+    font-size: 7px;
+}
+
+.imagem img{
+    width: 100%;
+}
